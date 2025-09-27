@@ -1,4 +1,4 @@
-# Program Kendaraan Bermotor (Motor, Mobil, Perahu)
+# TP3DPBO2425C1
 
 ## 1. Janji
 Saya Muhammad Rizkiana Pratama dengan NIM 2404421 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk Keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
