@@ -5,7 +5,8 @@ Saya Muhammad Rizkiana Pratama dengan NIM 2404421 mengerjakan Tugas Praktikum 3 
 
 ## 2. Desain Diagram Class
 
-![DesignTP3](https://github.com/user-attachments/assets/c79036de-ffa5-456c-ba2e-847eca51013a)
+<img width="696" height="643" alt="Screenshot 2025-09-28 202722" src="https://github.com/user-attachments/assets/fdaedda4-190c-488f-80a5-50ffacc93160" />
+
 
 ## 3. Penjelasan Atribut dan Methods
 
